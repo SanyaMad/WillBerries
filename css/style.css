@@ -562,6 +562,9 @@ footer{
         margin-left: 40px;
         margin-right: 40px;
     }
+    .micro_women{
+        display: none;
+    }
 }
 
 @media (max-width: 740px) {
@@ -707,7 +710,7 @@ footer{
     }
 }
 
-@media (max-width: 370px) {
+@media (max-width: 375px) {
     .title_sweater {
        font-size: 40px 
     }
@@ -725,5 +728,8 @@ footer{
         margin: 0;
         top: 53%;
         right: 5%;
+    }
+    .menu_footer{
+        display: none;
     }
 }
